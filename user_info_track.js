@@ -13,6 +13,11 @@
             .then(users => {
                 console.log(users);
                 // console.log(users.data[0].latitude);
+
+
+                // getting user's time zone and appending it to users object
+                const tz = Intl.DateTimeFormat().resolvedOptions().timeZone;
+                users.data[0].timeZone = tz;
                 
                 $.ajax({
                     url:"user_info_track.php",
