@@ -184,7 +184,7 @@
 
     // echo ip_info("157.34.73.235", "Country");	
 
-    $mysqli = new mysqli("localhost", "root", "", "vipra_raipur"); //connecting to database
+    $mysqli = new mysqli("localhost", "root", "", "db_name"); //connecting to database
 
     // Check connection
     if ($mysqli -> connect_errno) {
