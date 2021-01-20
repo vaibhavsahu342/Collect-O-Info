@@ -1,6 +1,6 @@
 <?php 
 
-    // require('connection.php');
+   
     // $start = microtime(true);    
 
     // $hostname = gethostbyaddr($_SERVER['REMOTE_ADDR']);
