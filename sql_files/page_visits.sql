@@ -38,8 +38,7 @@ CREATE TABLE `page_visits` (
 -- Dumping data for table `page_visits`
 --
 
-INSERT INTO `page_visits` (`id`, `parent_id`, `page_visited`, `date_time`) VALUES
-(1, 1, 'http//localhost/vipra-backup-new/geolocation/user_info_track.php', '2021-01-20 07:31:30');
+
 
 --
 -- Indexes for dumped tables
