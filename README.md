@@ -1,4 +1,4 @@
-# collecting-user-information-on-website-visit-using-php
+# Collect-O-Info
 
 How to use this repository?
 
