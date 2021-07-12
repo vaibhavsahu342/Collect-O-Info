@@ -50,9 +50,6 @@ CREATE TABLE `user_info` (
 -- Dumping data for table `user_info`
 --
 
-INSERT INTO `user_info` (`id`, `browser_ip`, `system_ip`, `server_ip`, `isp`, `os_name`, `system_username`, `country_code`, `country_name`, `continent`, `time_zone`, `state`, `city`, `location_name`, `postal_code`, `date`) VALUES
-(1, '127.0.0.1', '127.0.0.1', '127.0.0.1', 'Reliance Jio Infocomm Limited', 'Ubuntu', 'vaibhav-NS14A6', 'IND', 'India', 'Asia', 'localhost', 'Chhattisgarh', 'Raipur', 'Avanti Hospital ', '492001', '2021-01-20');
-
 --
 -- Indexes for dumped tables
 --
